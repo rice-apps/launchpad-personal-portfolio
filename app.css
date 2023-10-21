@@ -8,6 +8,10 @@
 .projects {
     text-align:center;
 }
+.project-image {
+    width: 200px;
+    height: 100px;
+}
 .projects-gallery {
     display: flex;
     justify-content: space-evenly
@@ -21,4 +25,5 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 5px;
+    padding: 2%
 }
